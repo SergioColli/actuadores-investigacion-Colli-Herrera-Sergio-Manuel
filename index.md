@@ -3,9 +3,9 @@ layout: default
 title: "Investigación de Actuadores"
 ---
 
-# Investigación de Actuadores
 
 ## 2. Actuadores
+Un actuador es un dispositivo que convierte energía en movimiento, permitiendo que un sistema realice una acción física, como mover un objeto o controlar un mecanismo. Los actuadores pueden utilizar diferentes fuentes de energía, como eléctrica, mecánica, hidráulica o neumática, para generar movimiento lineal o rotativo.
 
 ### 2.1 Actuadores Eléctricos
 
