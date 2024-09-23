@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: "Investigación de Actuadores"
 description: "Investigación sobre Actuadores para la clase"
 markdown: kramdown
